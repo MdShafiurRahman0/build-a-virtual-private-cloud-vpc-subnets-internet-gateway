@@ -6,10 +6,12 @@ You'll dive into the core of AWS networking by creating your very own Virtual Pr
 
 Setting up and managing a VPC is a vital skill for anyone looking to master cloud infrastructure. Today, you'll learn how to set up and configure a VPC from scratch.
 
-Let's get ready to:
+### Let's get ready to:
 
 ☁️ Create an Amazon VPC.
+
 🥅 Create a public subnet.
+
 🚪 Create an internet gateway.
 
 
@@ -25,6 +27,8 @@ Let's get ready to:
 
 
 ![image](https://github.com/MdShafiurRahman0/build-a-virtual-private-cloud-vpc-subnets-internet-gateway/assets/113176437/8f676f85-61c4-4bdc-8232-f7f8122202ad)
+
+
 
 
 1. Choose VPC Only.
@@ -44,6 +48,7 @@ Let's get ready to:
 
 ### Step 2: Create Subnets
 
+
 1. Subnets are subdivisions within your VPC where you can launch AWS resources.
 
 2. In the VPC Dashboard, under Virtual Private Cloud, choose Subnets
@@ -61,6 +66,7 @@ Let's get ready to:
 
 ### Configure your subnet settings:
 
+
 1. **VPC ID:** NextWork VPC
 2. **Subnet name:** Public 1
 3. **Availability Zone:** Select the first Availability Zone in the list.
@@ -73,9 +79,12 @@ Let's get ready to:
 
 
 
+
 ### High Level Overview of CIDR block and Public Subnet IP
 
 ![image](https://github.com/MdShafiurRahman0/build-a-virtual-private-cloud-vpc-subnets-internet-gateway/assets/113176437/b6828d44-eb1d-4be3-b0d8-c018b37fb371)
+
+
 
 
 
@@ -88,9 +97,13 @@ Let's get ready to:
 
 
 
+
+
 ### Check the box next to Enable auto-assign public IPv4 address.
 
 ![2024-07-10_22h20_32](https://github.com/MdShafiurRahman0/build-a-virtual-private-cloud-vpc-subnets-internet-gateway/assets/113176437/e5ff8272-6367-414e-be6f-0b178afd99fc)
+
+
 
 
 
@@ -111,6 +124,8 @@ Let's get ready to:
 
 
 ![2024-07-10_22h39_27](https://github.com/MdShafiurRahman0/build-a-virtual-private-cloud-vpc-subnets-internet-gateway/assets/113176437/f082fd22-a99c-4306-ae27-d1debfed2f2d)
+
+
 
 
 

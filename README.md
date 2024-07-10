@@ -109,7 +109,7 @@ Setting up and managing a VPC is a vital skill for anyone looking to master clou
 
 
 
-### Step 2: Create an Internet Gateway
+### Step 3: Create an Internet Gateway
 
 1. VPC done!
 
